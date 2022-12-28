@@ -1,4 +1,4 @@
-# Prediction of Invetory replenishment for Logistic Company
+# Prediction of Invetory replenishment for Logistic Company (DS105)
 Machine Learning model project for Logistics company
 
 Dataset contains:
